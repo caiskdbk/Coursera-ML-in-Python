@@ -5,7 +5,7 @@ Currently, I'm intend to update one homework assignment per week.
 
 ----
 ## Homework Assignments List and Current Progress
-- [x ] ex1: Linear Regression
+- [x] ex1: Linear Regression
 - [ ] ex2: Logistic Regression
 - [ ] ex3: Multi-class classification and Neural Network
 - [ ] ex4: Neural Network Learning
