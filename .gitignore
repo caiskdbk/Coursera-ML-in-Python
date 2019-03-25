@@ -109,11 +109,8 @@ venv.bak/
 *.txt
 *.png
 
-#Homework instructions
-*.pdf
 
 tempCodeRunnerFile.*
-machine-learning-ex1/
 machine-learning-ex2/
 machine-learning-ex3/
 machine-learning-ex4/

@@ -5,7 +5,7 @@ Currently, I'm intend to update one homework assignment per week.
 
 ----
 ## Homework Assignments List and Current Progress
-- [ ] ex1: Linear Regression
+- [x ] ex1: Linear Regression
 - [ ] ex2: Logistic Regression
 - [ ] ex3: Multi-class classification and Neural Network
 - [ ] ex4: Neural Network Learning
@@ -16,4 +16,5 @@ Currently, I'm intend to update one homework assignment per week.
 ----
 
 ## Changelog
-* 6/12/2018 Initial repo
+* 3/24/2019 Initial repo
+* 3/25/2019 Linear Regression code uploaded. For some unknown reason, the contour graph I plotted is not showing the thetas are local optimal, but the actual values do meet the expectation. 
