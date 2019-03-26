@@ -23,8 +23,6 @@ np.set_printoptions(suppress=True)
 
 '''
 ================ Part 1: Feature Normalization ================
-import os
-os.chdir("Y:\Online Learning\Machine Learning - Coursera\Programming Assignments\Python Replicates\machine-learning-ex1")
 '''
 
 print ("Loading data")
